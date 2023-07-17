@@ -1,5 +1,5 @@
 # Dipco (Dinner Party Corpus) backup 
-EU zenodo backup link for Dipco, `Van Segbroeck et al. Interspeech 2020`
+EU zenodo backup link for [Dipco](https://zenodo.org/record/8122551), `Van Segbroeck et al. Interspeech 2020`
 
 Cited as ![img](https://zenodo.org/badge/DOI/10.21437/Interspeech.2020-2800.svg)
 
