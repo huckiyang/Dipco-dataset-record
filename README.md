@@ -22,4 +22,4 @@ wget --limit-rate=5m https://zenodo.org/record/8122551/files/DipCo.tgz?download=
 }
 ```
 
-<img src="https://github.com/huckiyang/Dipco-dataset-record/blob/main/dipco.png" width="500">
+<img src="https://github.com/huckiyang/Dipco-dataset-record/blob/main/dipco.png" width="250">
