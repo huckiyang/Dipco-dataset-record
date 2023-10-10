@@ -3,6 +3,8 @@ EU zenodo backup [link for Dipco](https://zenodo.org/record/8122551), `Van Segbr
 
 Cited as ![img](https://zenodo.org/badge/DOI/10.21437/Interspeech.2020-2800.svg)
 
+![img](https://github.com/huckiyang/Dipco-dataset-record/blob/main/dipco.png)
+
 Under CDLA-Permissive license.
 
 ```shell
